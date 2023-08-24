@@ -1,3 +1,9 @@
+groups:
+  - name: sales
+    owner:
+      name: Sales Team
+      email: sales@pizza.hq
+
 models:
   - name: lkp_pizza_sizes
     access: private
