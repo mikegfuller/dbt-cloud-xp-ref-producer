@@ -1,3 +1,4 @@
 models:
   - name: lkp_pizza_sizes
-    access: public
+    access: private
+    group: sales
