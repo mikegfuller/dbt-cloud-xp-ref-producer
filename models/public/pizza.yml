@@ -6,5 +6,5 @@ groups:
 
 models:
   - name: lkp_pizza_sizes
-    access: private
+    access: public
     group: sales
